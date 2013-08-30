@@ -39,6 +39,11 @@ Looks good to me but needs tests.
 Used on PRs.
 
 
+### ponyfill
+
+Like polyfill, but ponies.
+
+
 ### unicornessencefulglowy
 
 An adjective for the day you're mentioned as being godlike on a friend's Twitter profile
