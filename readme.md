@@ -19,6 +19,10 @@ Something so fragile and useless it needs its own word.
 
 Because "for sure" is too much to type for sure.
 
+### fo sho
+
+Sounds cooler and is easier to type.
+
 
 ### lgtmbnt
 
