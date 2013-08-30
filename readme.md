@@ -20,6 +20,13 @@ Something so fragile and useless it needs its own word.
 Lazy `mostly not`.
 
 
+### yafs
+
+Yet Another Framework Syndrome.
+
+What JavaScript feels like today.
+
+
 ### fo're
 
 Because "for sure" is too much to type for sure.
