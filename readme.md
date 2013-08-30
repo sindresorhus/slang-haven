@@ -1,6 +1,6 @@
 # Slang Haven
 
-> Haven for the homeless internet slang
+> Safe and warm place for the homeless internet slang
 
 
 ## Words
