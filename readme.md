@@ -33,4 +33,4 @@ An adjective for the day you're mentioned as being godlike on a friend's Twitter
 who announced he's going to work at a large social media company soon.
 
 > P: Check out my profile.<br>
-> S: D'awwwww! It truly is a unicornessencefulglow day.
+> S: D'awwwww! It truly is a unicornessencefulglowy day.
