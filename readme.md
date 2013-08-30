@@ -15,6 +15,11 @@ Something so fragile and useless it needs its own word.
 > A: Indeed. Frageless.
 
 
+### mostlyn't
+
+Lazy `mostly not`.
+
+
 ### fo're
 
 Because "for sure" is too much to type for sure.
