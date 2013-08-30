@@ -5,6 +5,7 @@
 
 ## Words
 
+
 ### frageless
 
 Something so fragile and useless it needs its own word.
@@ -13,6 +14,14 @@ Something so fragile and useless it needs its own word.
 > S: Looks fragile and useless.<br>
 > A: Indeed. Frageless.
 
+
 ### fo're
 
 Because "for sure" is too much to type for sure.
+
+
+### lgtmbnt
+
+Looks good to me but needs tests.
+
+Used on PRs.
