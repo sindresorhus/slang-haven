@@ -2,6 +2,8 @@
 
 > Safe and warm place for the homeless internet slang
 
+![](slang-haven.jpg)
+
 
 ## Words
 
