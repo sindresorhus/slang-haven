@@ -29,7 +29,7 @@ Yet Another Framework Syndrome.
 What JavaScript feels like today.
 
 
-### fo're
+### 4sho
 
 Because "for sure" is too much to type for sure.
 
