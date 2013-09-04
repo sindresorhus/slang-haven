@@ -53,3 +53,7 @@ who announced he's going to work at a large social media company soon.
 
 > P: Check out my profile.<br>
 > S: D'awwwww! It truly is a unicornessencefulglowy day.
+
+### hyper-*
+
+See [Hyper Slang](https://github.com/btford/hyper-slang-haven)
