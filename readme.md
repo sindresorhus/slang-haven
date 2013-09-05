@@ -4,6 +4,7 @@
 
 ![](slang-haven.jpg)
 
+> sufficiently advanced slang is indistinguishable from witchcraft
 
 ## Words
 
