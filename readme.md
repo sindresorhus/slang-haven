@@ -57,3 +57,7 @@ who announced he's going to work at a large social media company soon.
 ### hyper-*
 
 See [Hyper Slang](https://github.com/btford/hyper-slang-haven)
+
+### np hard
+
+Synonym for "hard."
