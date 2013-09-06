@@ -62,3 +62,13 @@ See [Hyper Slang](https://github.com/btford/hyper-slang-haven)
 ### np hard
 
 Synonym for "hard."
+
+### doofy
+
+> P: seriously, you wrote it here, should be just as easy to Edit the readme in the github UI.
+> B: yeah that was doofy of me
+
+
+From "doofy."
+
+
