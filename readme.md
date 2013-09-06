@@ -65,7 +65,7 @@ Synonym for "hard."
 
 ### doofy
 
-> P: seriously, you wrote it here, should be just as easy to Edit the readme in the github UI.
+> P: seriously, you wrote it here, should be just as easy to Edit the readme in the github UI.<br>
 > B: yeah that was doofy of me
 
 
