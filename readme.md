@@ -22,6 +22,8 @@ Something so fragile and useless it needs its own word.
 
 Lazy `mostly not`.
 
+> The code I write often works, but mostlyn't.
+
 
 ### yafs
 
