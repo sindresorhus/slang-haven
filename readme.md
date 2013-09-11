@@ -73,4 +73,8 @@ Synonym for "hard."
 
 From "doofy."
 
+### observalized
+
+Should be use when talking about making objects observable.
+
 
