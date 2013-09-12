@@ -6,6 +6,7 @@
 
 > sufficiently advanced slang is indistinguishable from witchcraft
 
+
 ## Words
 
 
@@ -57,21 +58,24 @@ who announced he's going to work at a large social media company soon.
 > P: Check out my profile.<br>
 > S: D'awwwww! It truly is a unicornessencefulglowy day.
 
+
 ### hyper-*
 
 See [Hyper Slang](https://github.com/btford/hyper-slang-haven)
+
 
 ### np hard
 
 Synonym for "hard."
 
+
 ### doofy
 
-> P: seriously, you wrote it here, should be just as easy to Edit the readme in the github UI.<br>
+> P: seriously, you wrote it here, should be just as easy to Edit the readme in the github UI.  
 > B: yeah that was doofy of me
 
-
 From "doofy."
+
 
 ### observalized
 
@@ -79,3 +83,5 @@ Should be use when talking about making objects observable.
 
 
 ### monkey-patchability 
+
+@btford should stop being doofy and add a description.
