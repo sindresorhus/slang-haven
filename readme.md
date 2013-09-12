@@ -84,4 +84,4 @@ Should be use when talking about making objects observable.
 
 ### monkey-patchability 
 
-@btford should stop being doofy and add a description.
+![](http://i126.photobucket.com/albums/p87/shakyjake66/monkey-1.jpg)
