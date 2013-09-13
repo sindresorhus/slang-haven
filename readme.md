@@ -86,10 +86,34 @@ Should be use when talking about making objects observable.
 
 ![](http://i126.photobucket.com/albums/p87/shakyjake66/monkey-1.jpg)
 
+
 ### internet time
 
 Roughly 200x real-world time. Not to be confused with [Valve Time](https://developer.valvesoftware.com/wiki/Valve_Time).
 
+
 ### univorn
 
 The [opposite of hatred](https://www.youtube.com/watch?v=TYlQt36ebNE).
+
+
+### e-note
+
+> e-note sent to the original code writer requesting edit rights
+
+Fresh from "The GitHub Dictionary".
+
+Some crazy people also call it Pull Request, or PR.
+
+![](https://i.cloudup.com/YTMd2VkRWl-2000x2000.jpeg)
+
+
+### reposotory
+
+> big chunks of code that can be edited by GitHub members
+
+I guess we need some code in this repo to qualify.
+
+```brainfuck
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+```
