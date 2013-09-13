@@ -85,3 +85,7 @@ Should be use when talking about making objects observable.
 ### monkey-patchability 
 
 ![](http://i126.photobucket.com/albums/p87/shakyjake66/monkey-1.jpg)
+
+### internet time
+
+Roughly 200x real-world time. Not to be confused with [Valve Time](https://developer.valvesoftware.com/wiki/Valve_Time).
