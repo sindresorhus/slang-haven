@@ -89,3 +89,7 @@ Should be use when talking about making objects observable.
 ### internet time
 
 Roughly 200x real-world time. Not to be confused with [Valve Time](https://developer.valvesoftware.com/wiki/Valve_Time).
+
+### univorn
+
+The [opposite of hatred](https://www.youtube.com/watch?v=TYlQt36ebNE).
