@@ -117,3 +117,7 @@ I guess we need some code in this repo to qualify.
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
+
+### twireworks
+
+When somebody makes a twitter firework coz of some breaking news.
