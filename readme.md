@@ -47,7 +47,9 @@ Used on PRs.
 
 ### ponyfill
 
-Like polyfill, but ponies.
+Like prollyfill, but ponies.
+
+**The term prollyfill is an anti-pattern, use ponyfill instead.**
 
 
 ### unicornessencefulglowy
