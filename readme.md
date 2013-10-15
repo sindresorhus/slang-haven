@@ -47,7 +47,7 @@ Used on PRs.
 
 ### ponyfill
 
-Like prollyfill, but ponies.
+Like [prollyfill](http://prollyfill.org), but ponies.
 
 **The term prollyfill is an anti-pattern, use ponyfill instead.**
 
