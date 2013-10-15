@@ -125,3 +125,9 @@ When somebody makes a twitter firework coz of some breaking news.
 ### trollified
 
 Somebody's assuming you're trolling. See [example](https://twitter.com/sindresorhus/status/388282714396164096)
+
+### devices4
+
+Like `devices`, only less grammarificified.
+
+https://twitter.com/addyosmani/status/390177964148928513
