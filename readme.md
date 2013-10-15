@@ -141,3 +141,10 @@ https://twitter.com/addyosmani/status/390177964148928513
 ### grammarificified
 
 Something less grammar. See above.
+
+
+### whipster
+
+web-hipster
+
+https://twitter.com/roobijn/status/390178470359072768
