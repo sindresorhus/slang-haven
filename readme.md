@@ -148,3 +148,9 @@ Something less grammar. See above.
 web-hipster
 
 https://twitter.com/roobijn/status/390178470359072768
+
+### to pull a lodash
+
+hostile forking of some stuff
+
+> he pulled a lodash on my shit and now everyone uses his fork. bastard!
