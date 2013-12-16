@@ -158,3 +158,7 @@ hostile forking of some stuff
 ### holyfuckshit
 
 holyfuckshit > wtf
+
+### substacktive discussion
+
+not the most objective way to have a discussion with someone.
