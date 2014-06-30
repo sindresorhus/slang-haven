@@ -166,3 +166,7 @@ not the most objective way to have a discussion with someone.
 ### pony slappin
 
 Like [duck punching](http://en.wikipedia.org/wiki/Monkey_patch)
+
+### rember
+
+Rememember is too hard!
