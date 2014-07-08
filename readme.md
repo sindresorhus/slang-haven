@@ -170,3 +170,7 @@ Like [duck punching](http://en.wikipedia.org/wiki/Monkey_patch)
 ### rember
 
 Rememember is too hard!
+
+### pouch-coding
+
+![](http://familyguy.eg-w.com/wp-content/uploads/2008/07/familyguy_vol_2_kangaroo1-300x200.jpg)
