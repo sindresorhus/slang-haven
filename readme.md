@@ -180,3 +180,13 @@ Rememember is too hard!
 UX & UI.
 
 https://twitter.com/sindresorhus/status/610529371959463937
+
+### jell (also jel, jels, jells)
+
+> I'm so jell.
+
+> Ur wat?
+
+> Jelous, duh.
+
+> I'm so jell of your slang.
